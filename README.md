@@ -1,4 +1,4 @@
-# Semafaro de transito utilizando JavaScript
+# Lâmpada que liga e desliga utilizando JavaScript
 
 Esse projeto é uma lampada que acende e apaga com comandos feitos em JavaScript.
 [Click here to access](https://chhenriquee.github.io/lampada-js/)
